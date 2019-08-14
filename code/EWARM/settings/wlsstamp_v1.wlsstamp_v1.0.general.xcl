@@ -1,0 +1,15 @@
+"E:\importantsoftware\iar\arm\bin\armproc.dll" 
+
+"E:\importantsoftware\iar\arm\bin\armjlink2.dll" 
+
+"F:\Projects_Document\hlsd_projects\blestamp_20190701\EWARM\wlsstamp_v1.0\Exe\wlsstamp_v1.0.out" 
+
+--plugin "E:\importantsoftware\iar\arm\bin\armbat.dll" 
+
+--device_macro "E:\importantsoftware\iar\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "E:\importantsoftware\iar\arm\config\flashloader\ST\FlashSTM32F10xxE.board" 
+
+
+
+
